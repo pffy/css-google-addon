@@ -499,7 +499,7 @@ input[type="checkbox"]:focus {
 }
 
 input[type="checkbox"]:checked:after {
-  background: url(/ui/v1/menu/checkmark_2x.png) no-repeat 0 0 / 21px;
+  background: url(/css-google-addon/ui/v1/menu/checkmark_2x.png) no-repeat 0 0 / 21px;
   content: '';
   display: block;
   height: 21px;
@@ -584,11 +584,11 @@ input:disabled + label {
 select {
   -moz-appearance: none;
   -webkit-appearance: none;
-  background: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -ms-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -o-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), linear-gradient(top, #f5f5f5, #f1f1f1);
+  background: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -ms-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -o-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), linear-gradient(top, #f5f5f5, #f1f1f1);
   background-position: 95% 50%;
   background-repeat: no-repeat;
   border: 1px solid #dcdcdc;
@@ -617,11 +617,11 @@ select:-ms-expand {
 }
 
 select:hover {
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -ms-linear-gradient(top, #f8f8f8, #f1f1f1);
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -o-linear-gradient(top, #f8f8f8, #f1f1f1);
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -ms-linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -o-linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png), linear-gradient(top, #f8f8f8, #f1f1f1);
   border: 1px solid #c6c6c6;
   color: #111;
 }
@@ -631,7 +631,7 @@ select:focus {
 }
 
 select:disabled {
-  background-image: url(/ui/v1/disclosure/grey-disclosure-arrow-up-down.png);
+  background-image: url(/css-google-addon/ui/v1/disclosure/grey-disclosure-arrow-up-down.png);
   border: 1px solid #dcdcdc;
   color: #333;
   opacity: .5;
